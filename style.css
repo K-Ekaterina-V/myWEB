@@ -1,0 +1,27 @@
+.phototop {
+    width: 100%;
+
+}
+.phototop img {
+    width: 100%;
+}
+main {
+    width: 70%;
+    margin: auto;
+}
+h1 {
+    font-family: Oswald;
+}
+p {
+    font-family: Oswald;
+    text-align: justify;
+}
+.photoline {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.photoline img {
+    width: 32%;
+    border-radius: 10px;
+}
